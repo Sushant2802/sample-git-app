@@ -29,5 +29,7 @@ st.sidebar.title('Menu')
 st.sidebar.markdown("""
 - Home
 - About
-- Contact 
+- Contact
+- Career
+- Login 
 """)
